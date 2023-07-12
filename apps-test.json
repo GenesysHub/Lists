@@ -1,21 +1,21 @@
 [
   {
     "id": "1",
-    "name": "Item 1",
+    "name": "Item1",
     "url": "https://www.example.com/item1",
     "description": "This is item 1",
     "icon": "https://cdn-icons-png.flaticon.com/512/4436/4436481.png"
   },
   {
     "id": "2",
-    "name": "Item 2",
+    "name": "Item2",
     "url": "https://www.example.com/item2",
     "description": "This is item 2",
     "icon": "https://cdn-icons-png.flaticon.com/512/4436/4436481.png"
   },
   {
     "id": "3",
-    "name": "Item 3",
+    "name": "Item3",
     "url": "https://www.example.com/item3",
     "description": "This is item 3",
     "icon": "https://cdn-icons-png.flaticon.com/512/4436/4436481.png"
