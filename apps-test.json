@@ -1,5 +1,6 @@
 [
   {
+    "id": '0',
     "type": 'imported',
     "name": "Item1",
     "url": "https://www.example.com/item1",
@@ -7,6 +8,7 @@
     "icon": "https://cdn-icons-png.flaticon.com/512/4436/4436481.png"
   },
   {
+    "id": '1',
     "type": 'imported',
     "name": "Item2",
     "url": "https://www.example.com/item2",
@@ -14,6 +16,7 @@
     "icon": "https://cdn-icons-png.flaticon.com/512/4436/4436481.png"
   },
   {
+    "id": '2',
     "type": 'imported',
     "name": "Item3",
     "url": "https://www.example.com/item3",
