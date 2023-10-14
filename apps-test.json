@@ -1,23 +1,49 @@
-[
-  {
-    "type": "imported",
-    "name": "Item1",
-    "url": "https://www.example.com/item1",
-    "description": "This is item 1",
-    "icon": "https://cdn-icons-png.flaticon.com/512/4436/4436481.png"
-  },
-  {
-    "type": "imported",
-    "name": "Item2",
-    "url": "https://www.example.com/item2",
-    "description": "This is item 2",
-    "icon": "https://cdn-icons-png.flaticon.com/512/4436/4436481.png"
-  },
-  {
-    "type": "imported",
-    "name": "Item3",
-    "url": "https://www.example.com/item3",
-    "description": "This is item 3",
-    "icon": "https://cdn-icons-png.flaticon.com/512/4436/4436481.png"
-  }
-]
+{
+    "id": "Dapps_1",
+    "name": "Dapps List",
+    "icon": "defaultImage",
+    "type": "lists",
+    "createdAt": "2023-10-14T00:00:00.000Z",
+    "apps": [
+        {
+            "id": "app.uniswap.org",
+            "categories": ["tokens", "contracts"],
+            "name": "Uniswap",
+            "title": "Uniswap Decentralized Exchange",
+            "icon": "https://imgs.search.brave.com/XfYfgrIlkQ2UHsN6jDSkf9PwPwGDMbB5-KWN4TfISgk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9l/L2U3L1VuaXN3YXBf/TG9nby5zdmc.svg",
+            "url": "https://app.uniswap.org/",
+            "close": false,
+            "w": 600,
+            "h": 600,
+            "type": "apps",
+            "color": "#191B1F",
+            "tokens": [
+                {
+                    "id": "0x253C75FBb1b81E1DA5C5308a4ccCA2bcf7eB4496",
+                    "name": "Uniswap Token",
+                    "ticker": "UNI",
+                    "chain": [1],
+                    "type": "token",
+                    "url": "https://app.uniswap.org/",
+                    "icon": "https://imgs.search.brave.com/XfYfgrIlkQ2UHsN6jDSkf9PwPwGDMbB5-KWN4TfISgk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9l/L2U3L1VuaXN3YXBf/TG9nby5zdmc.svg"
+                }
+            ],
+            "contracts": [
+                {
+                    "id": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+                    "name": "Uniswap Exchange",
+                    "chain": [1, 137],
+                    "type": "contract",
+                    "icon": "https://imgs.search.brave.com/XfYfgrIlkQ2UHsN6jDSkf9PwPwGDMbB5-KWN4TfISgk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9l/L2U3L1VuaXN3YXBf/TG9nby5zdmc.svg"
+                },
+                {
+                    "id": "0xE592427A0AEce92De3Edee1F18E0157C05861564",
+                    "name": "Uniswap Swap Router",
+                    "chain": [1],
+                    "type": "contract",
+                    "icon": "https://imgs.search.brave.com/XfYfgrIlkQ2UHsN6jDSkf9PwPwGDMbB5-KWN4TfISgk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9l/L2U3L1VuaXN3YXBf/TG9nby5zdmc.svg"
+                }
+            ]
+        }
+    ]
+}
