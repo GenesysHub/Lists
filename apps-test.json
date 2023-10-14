@@ -3,7 +3,6 @@
     "name": "Dapps List",
     "icon": "defaultImage",
     "type": "lists",
-    "createdAt": "2023-10-14T00:00:00.000Z",
     "apps": [
         {
             "id": "app.uniswap.org",
