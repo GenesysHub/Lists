@@ -14,7 +14,7 @@
       "icon": "https://www.freepik.com/icon/smart-contract_7225205",
       "tags": [
         "zap"
-      ],
+      ]
     }
   ],
   "apps": [
@@ -34,7 +34,7 @@
       "type": "apps",
       "color": "#191B1F",
       "tokens": [],
-      "contracts": [],
+      "contracts": []
     },
     {
       "id": "sushi.com",
@@ -51,7 +51,7 @@
       "type": "url",
       "color": "#0f172a",
       "tokens": [],
-      "contracts": [],
+      "contracts": []
     }
   ],
   "tokens": [
@@ -143,7 +143,7 @@
       "chain": [
         137
       ],
-      "id": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+      "id": "0xc2132d05d31c914a87C6611C10748aeb04b58e8f",
       "symbol": "USDT",
       "name": "(PoS) Tether USD",
       "decimals": 6,
@@ -157,7 +157,7 @@
       "chain": [
         137
       ],
-      "id": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "id": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
       "symbol": "USDC",
       "name": "USD Coin (PoS)",
       "decimals": 6,
@@ -171,7 +171,7 @@
       "chain": [
         137
       ],
-      "id": "0x190Eb8a183D22a4bdf278c6791b152228857c033",
+      "id": "0x190eb8a183d22a4bdf278c6791b152228857c033",
       "symbol": "AGIX",
       "name": "SingularityNET Token",
       "decimals": 18,
@@ -185,7 +185,7 @@
       "chain": [
         137
       ],
-      "id": "0x5FFD62D3C3eE2E81C00A7b9079FB248e7dF024A8",
+      "id": "0x5ffd62d3c3ee2e81c00a7b9079fb248e7df024a8",
       "symbol": "GNO",
       "name": "Gnosis",
       "decimals": 18,
@@ -199,7 +199,7 @@
       "chain": [
         137
       ],
-      "id": "0xEe327F889d5947c1dc1934Bb208a1E792F953E96",
+      "id": "0xe327f889d5947c1dc1934bb208a1e792f953e96",
       "symbol": "frxETH",
       "name": "Frax Ether",
       "decimals": 18,
@@ -213,7 +213,7 @@
       "chain": [
         137
       ],
-      "id": "0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3",
+      "id": "0x9a71012b13ca4d3d0cdc72a177df3ef03b0e76a3",
       "symbol": "BAL",
       "name": "Balancer",
       "decimals": 18,
@@ -227,7 +227,7 @@
       "chain": [
         137
       ],
-      "id": "0x282d8efCe846A88B159800bd4130ad77443Fa1A1",
+      "id": "0x282d8efce846a88b159800bd4130ad77443fa1a1",
       "symbol": "OCEAN",
       "name": "Ocean Token",
       "decimals": 18,
@@ -241,7 +241,7 @@
       "chain": [
         137
       ],
-      "id": "0xA8b1E0764f85f53dfe21760e8AfE5446D82606ac",
+      "id": "0xa8b1e0764f85f53dfe21760e8afe5446d82606ac",
       "symbol": "BAND",
       "name": "BandToken",
       "decimals": 18,
@@ -255,7 +255,7 @@
       "chain": [
         137
       ],
-      "id": "0xE5417Af564e4bFDA1c483642db72007871397896",
+      "id": "0xe5417af564e4bfda1c483642db72007871397896",
       "symbol": "GNS",
       "name": "Gains Network",
       "decimals": 18,
@@ -269,7 +269,7 @@
       "chain": [
         137
       ],
-      "id": "0x62414D03084EeB269E18C970a21f45D2967F0170",
+      "id": "0x62414d03084eeb269e18c970a21f45d2967f0170",
       "symbol": "OMG",
       "name": "OMG Network",
       "decimals": 18,
