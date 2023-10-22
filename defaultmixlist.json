@@ -11,10 +11,10 @@
         137
       ],
       "type": "contract",
-      "icon": "data:image/png;base64,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",
+      "icon": "https://www.freepik.com/icon/smart-contract_7225205",
       "tags": [
         "zap"
-      ],
+      ]
     }
   ],
   "apps": [
@@ -33,6 +33,8 @@
       "h": 600,
       "type": "apps",
       "color": "#191B1F",
+      "tokens": [],
+      "contracts": []
     },
     {
       "id": "sushi.com",
@@ -48,6 +50,8 @@
       "h": 715,
       "type": "url",
       "color": "#0f172a",
+      "tokens": [],
+      "contracts": []
     }
   ],
   "tokens": [
@@ -139,7 +143,7 @@
       "chain": [
         137
       ],
-      "id": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+      "id": "0xc2132d05d31c914a87C6611C10748aeb04b58e8f",
       "symbol": "USDT",
       "name": "(PoS) Tether USD",
       "decimals": 6,
@@ -153,7 +157,7 @@
       "chain": [
         137
       ],
-      "id": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "id": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
       "symbol": "USDC",
       "name": "USD Coin (PoS)",
       "decimals": 6,
@@ -167,7 +171,7 @@
       "chain": [
         137
       ],
-      "id": "0x190Eb8a183D22a4bdf278c6791b152228857c033",
+      "id": "0x190eb8a183d22a4bdf278c6791b152228857c033",
       "symbol": "AGIX",
       "name": "SingularityNET Token",
       "decimals": 18,
@@ -181,7 +185,7 @@
       "chain": [
         137
       ],
-      "id": "0x5FFD62D3C3eE2E81C00A7b9079FB248e7dF024A8",
+      "id": "0x5ffd62d3c3ee2e81c00a7b9079fb248e7df024a8",
       "symbol": "GNO",
       "name": "Gnosis",
       "decimals": 18,
@@ -195,7 +199,7 @@
       "chain": [
         137
       ],
-      "id": "0xEe327F889d5947c1dc1934Bb208a1E792F953E96",
+      "id": "0xe327f889d5947c1dc1934bb208a1e792f953e96",
       "symbol": "frxETH",
       "name": "Frax Ether",
       "decimals": 18,
@@ -209,7 +213,7 @@
       "chain": [
         137
       ],
-      "id": "0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3",
+      "id": "0x9a71012b13ca4d3d0cdc72a177df3ef03b0e76a3",
       "symbol": "BAL",
       "name": "Balancer",
       "decimals": 18,
@@ -223,7 +227,7 @@
       "chain": [
         137
       ],
-      "id": "0x282d8efCe846A88B159800bd4130ad77443Fa1A1",
+      "id": "0x282d8efce846a88b159800bd4130ad77443fa1a1",
       "symbol": "OCEAN",
       "name": "Ocean Token",
       "decimals": 18,
@@ -237,7 +241,7 @@
       "chain": [
         137
       ],
-      "id": "0xA8b1E0764f85f53dfe21760e8AfE5446D82606ac",
+      "id": "0xa8b1e0764f85f53dfe21760e8afe5446d82606ac",
       "symbol": "BAND",
       "name": "BandToken",
       "decimals": 18,
@@ -251,7 +255,7 @@
       "chain": [
         137
       ],
-      "id": "0xE5417Af564e4bFDA1c483642db72007871397896",
+      "id": "0xe5417af564e4bfda1c483642db72007871397896",
       "symbol": "GNS",
       "name": "Gains Network",
       "decimals": 18,
@@ -265,7 +269,7 @@
       "chain": [
         137
       ],
-      "id": "0x62414D03084EeB269E18C970a21f45D2967F0170",
+      "id": "0x62414d03084eeb269e18c970a21f45d2967f0170",
       "symbol": "OMG",
       "name": "OMG Network",
       "decimals": 18,
