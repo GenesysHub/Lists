@@ -7,7 +7,7 @@
     {
       "id": "0x5A1DcaBD1C78E9b7Ed55b1c602A22D6Cad7a72F0",
       "name": "Omni Zap",
-      "chainId": [
+      "chain": [
         137
       ],
       "type": "contract",
@@ -45,7 +45,7 @@
   ],
   "tokens": [
     {
-      "chainId": [
+      "chain": [
         137
       ],
       "id": "0x0000000000000000000000000000000000001010",
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "chainId": [
+      "chain": [
         137
       ],
       "id": "0x45c32fA6DF82ead1e2EF74d17b76547EDdFaFF89",
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "chainId": [
+      "chain": [
         137
       ],
       "id": "0x5fe2B58c013d7601147DcdD68C143A77499f5531",
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "chainId": [
+      "chain": [
         137
       ],
       "id": "0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4",
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "chainId": [
+      "chain": [
         137
       ],
       "id": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
@@ -115,7 +115,7 @@
       ]
     },
     {
-      "chainId": [
+      "chain": [
         137
       ],
       "id": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "chainId": [
+      "chain": [
         137
       ],
       "id": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
@@ -143,7 +143,7 @@
       ]
     },
     {
-      "chainId": [
+      "chain": [
         137
       ],
       "id": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "chainId": [
+      "chain": [
         137
       ],
       "id": "0x190Eb8a183D22a4bdf278c6791b152228857c033",
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "chainId": [
+      "chain": [
         137
       ],
       "id": "0x5FFD62D3C3eE2E81C00A7b9079FB248e7dF024A8",
@@ -185,7 +185,7 @@
       ]
     },
     {
-      "chainId": [
+      "chain": [
         137
       ],
       "id": "0xEe327F889d5947c1dc1934Bb208a1E792F953E96",
@@ -199,7 +199,7 @@
       ]
     },
     {
-      "chainId": [
+      "chain": [
         137
       ],
       "id": "0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3",
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "chainId": [
+      "chain": [
         137
       ],
       "id": "0x282d8efCe846A88B159800bd4130ad77443Fa1A1",
@@ -227,7 +227,7 @@
       ]
     },
     {
-      "chainId": [
+      "chain": [
         137
       ],
       "id": "0xA8b1E0764f85f53dfe21760e8AfE5446D82606ac",
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "chainId": [
+      "chain": [
         137
       ],
       "id": "0xE5417Af564e4bFDA1c483642db72007871397896",
@@ -255,7 +255,7 @@
       ]
     },
     {
-      "chainId": [
+      "chain": [
         137
       ],
       "id": "0x62414D03084EeB269E18C970a21f45D2967F0170",
@@ -268,7 +268,7 @@
       ]
     },
     {
-      "chainId": [
+      "chain": [
         137
       ],
       "id": "0x4b1f1e2435a9c96f7330faea190ef6a7c8d70001",
