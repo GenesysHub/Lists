@@ -1,0 +1,34 @@
+{
+  "id": "Dapps_1",
+  "name": "Dapps List",
+  "icon": "defaultImage",
+  "type": "lists",
+  "apps": [
+    {
+      "id": "app.uniswap.org",
+      "categories": ["tokens", "contracts"],
+      "name": "Uniswap",
+      "title": "Uniswap Decentralized Exchange",
+      "icon": "https://imgs.search.brave.com/XfYfgrIlkQ2UHsN6jDSkf9PwPwGDMbB5-KWN4TfISgk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YAWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9l/L2U3L1VuaXN3YXBf/TG9nby5zdmc.svg",
+      "url": "https://app.uniswap.org/",
+      "close": false,
+      "w": 600,
+      "h": 600,
+      "type": "apps",
+      "color": "#191B1F",
+    },
+    {
+      "id": "sushi.com",
+      "categories": ["tokens"],
+      "name": "SushiSwap",
+      "title": "Sushiswap DEX",
+      "icon": "https://cryptologos.cc/logos/sushiswap-sushi-logo.png?v=025",
+      "url": "https://www.sushi.com/swap",
+      "close": false,
+      "w": 435,
+      "h": 715,
+      "type": "url",
+      "color": "#0f172a",
+    }
+  ]
+}
