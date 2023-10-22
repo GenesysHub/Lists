@@ -52,7 +52,7 @@
       "symbol": "MATIC",
       "name": "Matic native",
       "decimals": 18,
-      "logoURI": "https://polygonscan.com/images/svg/brands/polygon.svg?v=1.3",
+      "icon": "https://polygonscan.com/images/svg/brands/polygon.svg?v=1.3",
       "type": "native",
       "tags": [
         "token"
@@ -66,7 +66,7 @@
       "symbol": "FRAX",
       "name": "Frax",
       "decimals": 18,
-      "logoURI": "https://polygonscan.com/token/images/frax_32.png",
+      "icon": "https://polygonscan.com/token/images/frax_32.png",
       "type": "token",
       "tags": [
         "token"
@@ -80,7 +80,7 @@
       "symbol": "GRT",
       "name": "Graph Token",
       "decimals": 18,
-      "logoURI": "https://polygonscan.com/token/images/TheGraph_32.png",
+      "icon": "https://polygonscan.com/token/images/TheGraph_32.png",
       "type": "token",
       "tags": [
         "token"
@@ -94,7 +94,7 @@
       "symbol": "MANA",
       "name": "Decentraland",
       "decimals": 18,
-      "logoURI": "https://polygonscan.com/token/images/decentraland_32.png",
+      "icon": "https://polygonscan.com/token/images/decentraland_32.png",
       "type": "token",
       "tags": [
         "token"
@@ -108,7 +108,7 @@
       "symbol": "DAI",
       "name": "(PoS) Dai Stablecoin",
       "decimals": 18,
-      "logoURI": "https://polygonscan.com/token/images/mcdDai_32.png",
+      "icon": "https://polygonscan.com/token/images/mcdDai_32.png",
       "type": "token",
       "tags": [
         "token"
@@ -122,7 +122,7 @@
       "symbol": "WMATIC",
       "name": "Wrapped Matic",
       "decimals": 18,
-      "logoURI": "https://polygonscan.com/token/images/wMatic_32.png",
+      "icon": "https://polygonscan.com/token/images/wMatic_32.png",
       "type": "token",
       "tags": [
         "wrap"
@@ -136,7 +136,7 @@
       "symbol": "USDT",
       "name": "(PoS) Tether USD",
       "decimals": 6,
-      "logoURI": "https://polygonscan.com/token/images/tether_32.png",
+      "icon": "https://polygonscan.com/token/images/tether_32.png",
       "type": "token",
       "tags": [
         "token"
@@ -150,7 +150,7 @@
       "symbol": "USDC",
       "name": "USD Coin (PoS)",
       "decimals": 6,
-      "logoURI": "https://polygonscan.com/token/images/centre-usdc_32.png",
+      "icon": "https://polygonscan.com/token/images/centre-usdc_32.png",
       "type": "token",
       "tags": [
         "token"
@@ -164,7 +164,7 @@
       "symbol": "AGIX",
       "name": "SingularityNET Token",
       "decimals": 18,
-      "logoURI": "https://polygonscan.com/token/images/singularitynet_28.png",
+      "icon": "https://polygonscan.com/token/images/singularitynet_28.png",
       "type": "token",
       "tags": [
         "token"
@@ -178,7 +178,7 @@
       "symbol": "GNO",
       "name": "Gnosis",
       "decimals": 18,
-      "logoURI": "https://polygonscan.com/token/images/gnosans_32.png",
+      "icon": "https://polygonscan.com/token/images/gnosans_32.png",
       "type": "token",
       "tags": [
         "token"
@@ -192,7 +192,7 @@
       "symbol": "frxETH",
       "name": "Frax Ether",
       "decimals": 18,
-      "logoURI": "https://polygonscan.com/token/images/fraxethcanonical2_32.png",
+      "icon": "https://polygonscan.com/token/images/fraxethcanonical2_32.png",
       "type": "token",
       "tags": [
         "token"
@@ -206,7 +206,7 @@
       "symbol": "BAL",
       "name": "Balancer",
       "decimals": 18,
-      "logoURI": "https://polygonscan.com/token/images/Balancer_32.png",
+      "icon": "https://polygonscan.com/token/images/Balancer_32.png",
       "type": "token",
       "tags": [
         "token"
@@ -220,7 +220,7 @@
       "symbol": "OCEAN",
       "name": "Ocean Token",
       "decimals": 18,
-      "logoURI": "https://polygonscan.com/token/images/oceantoken_28.png",
+      "icon": "https://polygonscan.com/token/images/oceantoken_28.png",
       "type": "token",
       "tags": [
         "token"
@@ -234,7 +234,7 @@
       "symbol": "BAND",
       "name": "BandToken",
       "decimals": 18,
-      "logoURI": "https://polygonscan.com/token/images/bandtoken_32.png",
+      "icon": "https://polygonscan.com/token/images/bandtoken_32.png",
       "type": "token",
       "tags": [
         "token"
@@ -248,7 +248,7 @@
       "symbol": "GNS",
       "name": "Gains Network",
       "decimals": 18,
-      "logoURI": "https://polygonscan.com/token/images/gainsnetwork_32.png",
+      "icon": "https://polygonscan.com/token/images/gainsnetwork_32.png",
       "type": "token",
       "tags": [
         "token"
@@ -262,7 +262,7 @@
       "symbol": "OMG",
       "name": "OMG Network",
       "decimals": 18,
-      "logoURI": "https://polygonscan.com/token/images/OMGNetwork_32.png",
+      "icon": "https://polygonscan.com/token/images/OMGNetwork_32.png",
       "tags": [
         "token"
       ]
@@ -275,7 +275,7 @@
       "symbol": "USDTUSDC",
       "name": "Sushiswap LP",
       "decimals": 18,
-      "logoURI": "https://polygonscan.com/images/main/empty-token.png",
+      "icon": "https://polygonscan.com/images/main/empty-token.png",
       "type": "pair",
       "tags": [
         "token"
