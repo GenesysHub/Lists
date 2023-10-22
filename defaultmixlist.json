@@ -14,7 +14,8 @@
       "icon": "https://www.freepik.com/icon/smart-contract_7225205",
       "tags": [
         "zap"
-      ]
+      ],
+      "abis": {[]}
     }
   ],
   "apps": [
