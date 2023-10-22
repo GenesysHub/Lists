@@ -49,7 +49,9 @@
       "w": 435,
       "h": 715,
       "type": "url",
-      "color": "#0f172a"
+      "color": "#0f172a",
+      "tokens": [],
+      "contracts": []
     }
   ],
   "tokens": [
