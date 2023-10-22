@@ -270,6 +270,7 @@
       "name": "OMG Network",
       "decimals": 18,
       "icon": "https://polygonscan.com/token/images/OMGNetwork_32.png",
+      "type": "token",
       "tags": [
         "token"
       ]
