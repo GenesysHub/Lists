@@ -16,19 +16,8 @@
       "h": 600,
       "type": "apps",
       "color": "#191B1F",
-    },
-    {
-      "id": "sushi.com",
-      "categories": ["tokens"],
-      "name": "SushiSwap",
-      "title": "Sushiswap DEX",
-      "icon": "https://cryptologos.cc/logos/sushiswap-sushi-logo.png?v=025",
-      "url": "https://www.sushi.com/swap",
-      "close": false,
-      "w": 435,
-      "h": 715,
-      "type": "url",
-      "color": "#0f172a",
+      "tokens": [],
+      "contracts": [],
     }
   ]
 }
