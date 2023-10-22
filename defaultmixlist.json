@@ -33,6 +33,8 @@
       "h": 600,
       "type": "apps",
       "color": "#191B1F",
+      "tokens": [],
+      "contracts": [],
     },
     {
       "id": "sushi.com",
@@ -48,6 +50,8 @@
       "h": 715,
       "type": "url",
       "color": "#0f172a",
+      "tokens": [],
+      "contracts": [],
     }
   ],
   "tokens": [
